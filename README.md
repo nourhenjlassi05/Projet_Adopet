@@ -25,6 +25,16 @@
 <img src="https://github.com/user-attachments/assets/b0a195c2-1626-42b3-8d3b-9a5b37a5e5bb" alt="registre" width="300" style="border-radius: 15px;">
 
 
+# Add Dog
+
+<img src="https://github.com/user-attachments/assets/ef0eae0c-17c8-49f9-877e-eeeb206416d4" alt="registre" width="300" style="border-radius: 15px;">
+
+
+
+# afficher Dog ajoutée
+
+<img src="https://github.com/user-attachments/assets/ef0eae0c-17c8-49f9-877e-eeeb206416d4" alt="registre" width="300" style="border-radius: 15px;">
+
 
 
 
