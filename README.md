@@ -33,9 +33,25 @@
 
 # afficher Dog ajoutée
 
-<img src="https://github.com/user-attachments/assets/ef0eae0c-17c8-49f9-877e-eeeb206416d4" alt="registre" width="300" style="border-radius: 15px;">
+<img src="https://github.com/user-attachments/assets/ca3a9703-ad05-4a55-ae13-47b731bd75e64" alt="registre" width="300" style="border-radius: 15px;">
+
+
+# Edit Dog 
+
+<img src="https://github.com/user-attachments/assets/444ef881-436d-4a0e-b2ee-dc712f3e19c3" alt="registre" width="300" style="border-radius: 15px;">
 
 
 
 
-</div>
+# delete Dog 
+
+<img src="https://github.com/user-attachments/assets/6ee2f41a-dd65-479d-8364-1b4724674b90" alt="registre" width="300" style="border-radius: 15px;">
+
+#  Firebase 
+
+<img src="https://github.com/user-attachments/assets/4eeb0207-07f7-4e7d-9299-7acc48be5b98" alt="registre" width="300" style="border-radius: 15px;">
+
+
+
+
+
